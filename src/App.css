@@ -1,0 +1,25 @@
+.nave{
+  padding: 5px;
+  background-color: #8E8E90;
+}
+
+.titulo{
+  padding: 30px;
+  background-color: #42215F;
+  color: white
+}
+
+.formulario{
+    background-color:#DDDDDD;
+    color: #42215F
+    
+    
+}
+
+.navbar-dark input {
+  border-radius: 8px;
+}
+
+.form-label {
+  font-weight: bolder;
+}
